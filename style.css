@@ -1,0 +1,23 @@
+.header{
+    color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align:right
+    
+    
+}
+#icon{
+color: aqua;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#isi{
+    color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    justify-content:center;
+    text-align: center;
+    text-align: justify;
+    position: relative;
+}
+
